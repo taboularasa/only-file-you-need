@@ -1,0 +1,11 @@
+/*
+*
+!.gitignore
+*/
+
+#include <stdio.h>
+
+int main()
+{
+  puts("GAGAGA");
+}
